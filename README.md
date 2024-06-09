@@ -8,7 +8,7 @@ This project involves developing a machine learning model to classify protein se
 git clone https://github.com/your_username/protein-sequence-classification.git
 
 2. Navigate to the project directory:
-cd live-cell-segmentation
+cd protein_sequence_classification
 
 3. Install required packages:
 pip install -r requirements.txt
