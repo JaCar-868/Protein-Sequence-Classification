@@ -28,7 +28,7 @@ python preprocess_data.py
 python train_model.py
 
 4. Evaluate and visualize results:
-5. 
+
 The model's performance can be evaluated using the provided evaluation scripts.
 
 ## Contributing
